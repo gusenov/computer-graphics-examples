@@ -1,1 +1,2 @@
 - [Движение сферы по кривой](solid-sphere-animation)
+- [Отскакивающий шар](bouncing-ball)
