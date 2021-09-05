@@ -74,6 +74,8 @@ glColorЗfv(a);
 - [Application layer](freeglut/app-layer-freeglut)
 - [Рендеринг сцены](freeglut/render-scene-freeglut)
 - [Базовый рендеринг и освещение](freeglut/basic-render-n-light-freeglut)
+- Пользовательский ввод и управление камерой
+  - [freeglut](freeglut/usr-inp-n-cam-ctrl-freeglut)
 
 # Misc.
 
