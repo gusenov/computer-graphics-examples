@@ -66,6 +66,7 @@ glColorЗfv(a);
 
 - [Четырехугольник с вершинами разного цвета со сглаживанием](qt/smooth-rect-vertex-color-qt)
 - [Разворачивание ОреnGL-программ во весь экран](qt/full-screen-qt)
+- [Различные фигуры, построенные на одних и тех же вершинах](qt/primitives-same-vx-qt)
 # Misc.
 
 - [Движение сферы по кривой](solid-sphere-animation)
