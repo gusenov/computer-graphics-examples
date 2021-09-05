@@ -76,6 +76,7 @@ glColorЗfv(a);
 - [Базовый рендеринг и освещение](freeglut/basic-render-n-light-freeglut)
 - Пользовательский ввод и управление камерой
   - [freeglut](freeglut/usr-inp-n-cam-ctrl-freeglut)
+  - [freeglut + Bullet](freeglut/usr-inp-n-cam-ctrl-freeglut-bullet)
 
 # Misc.
 
