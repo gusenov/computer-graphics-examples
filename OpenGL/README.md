@@ -72,6 +72,7 @@ glColorЗfv(a);
 # [freeglut](freeglut)
 
 - [Application layer](freeglut/app-layer-freeglut)
+- [Рендеринг сцены](freeglut/render-scene-freeglut)
 
 # Misc.
 
