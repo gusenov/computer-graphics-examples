@@ -65,6 +65,7 @@ glColorЗfv(a);
 # [Qt](qt)
 
 - [Четырехугольник с вершинами разного цвета со сглаживанием](qt/smooth-rect-vertex-color-qt)
+- [Разворачивание ОреnGL-программ во весь экран](qt/full-screen-qt)
 # Misc.
 
 - [Движение сферы по кривой](solid-sphere-animation)
