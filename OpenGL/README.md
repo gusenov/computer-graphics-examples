@@ -64,6 +64,7 @@ glColorЗfv(a);
 
 # [Qt](qt)
 
+- [Четырехугольник с вершинами разного цвета со сглаживанием](qt/smooth-rect-vertex-color-qt)
 # Misc.
 
 - [Движение сферы по кривой](solid-sphere-animation)
