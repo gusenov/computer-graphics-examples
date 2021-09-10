@@ -77,6 +77,7 @@ glColorЗfv(a);
 - [3D-объекты](qt/qt-3d/3d-object)
 - [Материалы; Отображение сферы](qt/qt-3d/sphere-qml)
 - [Трансформация](qt/qt-3d/transform)
+- [Анимация двух объектов](qt/qt-3d/sphere-n-pyramaid-ani)
 
 # [freeglut](freeglut)
 
