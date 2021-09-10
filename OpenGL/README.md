@@ -69,6 +69,8 @@ glColorЗfv(a);
 - [Различные фигуры, построенные на одних и тех же вершинах](qt/primitives-same-vx-qt)
 - [Программа, отображающая пирамиду в трехмерном пространстве, поворот которой относительно осей Х и У осуществляется при помощи мыши](qt/pyramid-qt)
 
+## [Qt 3D](qt/qt-3d)
+
 # [freeglut](freeglut)
 
 - [Application layer](freeglut/app-layer-freeglut)
