@@ -71,6 +71,7 @@ glColorЗfv(a);
 
 ## [Qt 3D](qt/qt-3d)
 
+- [Трехмерная графика Qt ЗD построена на системе сущностей](qt/qt-3d/scene)
 # [freeglut](freeglut)
 
 - [Application layer](freeglut/app-layer-freeglut)
