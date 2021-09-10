@@ -75,6 +75,7 @@ glColorЗfv(a);
 - [Свет](qt/qt-3d/light)
 - [Камера](qt/qt-3d/camera)
 - [3D-объекты](qt/qt-3d/3d-object)
+- [Материалы; Отображение сферы](qt/qt-3d/sphere-qml)
 
 # [freeglut](freeglut)
 
