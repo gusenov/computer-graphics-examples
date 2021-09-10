@@ -74,6 +74,7 @@ glColorЗfv(a);
 - [Трехмерная графика Qt ЗD построена на системе сущностей](qt/qt-3d/scene)
 - [Свет](qt/qt-3d/light)
 - [Камера](qt/qt-3d/camera)
+- [3D-объекты](qt/qt-3d/3d-object)
 
 # [freeglut](freeglut)
 
